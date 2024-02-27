@@ -11,8 +11,8 @@ Chatbot to Analyze PDF Documents Using LLM from [CognitiveClass.Ai](https://cogn
 
 ## Mentee Info
 
-Name : Rizky Andika Apriansyah<br />
-Program : IBM Academy : Advance AI
+| Name | Rizky Andika Apriansyah |
+| Program | IBM Academy : Advance AI |
 
 ## Tech Stack
 - Python
