@@ -1,6 +1,7 @@
 ## Build a Chatbot to Analyze PDF Documents Using LLM
 #### _Author : @sinanazeri_
 
+## Information Project 🔎
 This project explores the art of prompt engineering with AI models. It highlights its importance in AI tools like chatbots and content generators, and its potential to boost business productivity. The project also
 delves into strategies for crafting effective prompts, and demonstrates these principles through a Python project on survival analysis.
 
@@ -9,11 +10,11 @@ delves into strategies for crafting effective prompts, and demonstrates these pr
 Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Build a 
 Chatbot to Analyze PDF Documents Using LLM from [CognitiveClass.Ai](https://cognitiveclass.ai)
 
-## Mentee Info
+## Mentee Info 🧑‍💻
 | Name                 | Program  |
 |----------------------|----------|
 | Rizky Andika Apriansyah | IBM Academy : Advance AI |
 
-## Tech Stack
+## Tech Stack 💻
 - Python
 - Jupyter Note Book
