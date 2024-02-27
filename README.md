@@ -9,13 +9,10 @@ delves into strategies for crafting effective prompts, and demonstrates these pr
 Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Build a 
 Chatbot to Analyze PDF Documents Using LLM from [CognitiveClass.Ai](https://cognitiveclass.ai)
 
-## Mentee Info
-
-| Mentee Info |          |
-|-------------|----------|
-| Name        | Rizky Andika Apriansyah |
-| Program     | IBM Academy : Advance AI |
-
+| Mentee Info          |          |
+|----------------------|----------|
+| Name                 | Program  |
+| Rizky Andika Apriansyah | IBM Academy : Advance AI |
 
 ## Tech Stack
 - Python
