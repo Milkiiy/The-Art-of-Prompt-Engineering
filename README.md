@@ -17,4 +17,4 @@ Chatbot to Analyze PDF Documents Using LLM from [CognitiveClass.Ai](https://cogn
 
 ## Tech Stack 💻
 - Python
-- Jupyter Note Book
+- Jupyter Notebook
